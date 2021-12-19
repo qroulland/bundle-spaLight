@@ -1,0 +1,21 @@
+{
+  "name": "spa-light",
+  "version": "1.0.0",
+  "description": "A little bundle for speed run projet",
+  "main": "index.html",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-asset-copier": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "parcel": "^2.0.1",
+    "sass": "^1.45.0"
+  },
+  "assetsPath": "assets"
+}
